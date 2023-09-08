@@ -1,5 +1,5 @@
 {
-  "name": "create-app-cli",
+  "name": "@kunlun-qilian/create-app-cli",
   "version": "0.0.1",
   "type": "module",
   "license": "MIT",
