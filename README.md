@@ -1,4 +1,4 @@
-# create-app-cli
+# @kunlun-qilian/create-app-cli
 
 ## Scaffolding Your First webapp Project
 
@@ -8,7 +8,7 @@
 With PNPM:
 
 ```bash
-$ pnpx create-app-cli@latest
+$ pnpx @kunlun-qilian/create-app-cli@latest
 ```
 
 Then follow the prompts!
@@ -17,7 +17,7 @@ You can also directly specify the project name and the template you want to use 
 
 ```bash
 # pnpm
-pnpx create-app-cli@latest my-react-app --template react-ts
+pnpx @kunlun-qilian/create-app-cli@latest my-react-app --template react-ts
 ```
 
 Currently supported template presets include:
