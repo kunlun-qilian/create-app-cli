@@ -43,5 +43,6 @@ jobs:
           npm config set //registry.npmjs.org/:_authToken=$NPM_TOKEN
           npm publish
         env:
+          CI: true
           # NPM_TOKEN is access token
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
